@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Reuben-Stephen-John
+<h1 align="center">Hi 👋, I'm Reuben Stephen John</h1>
+<h3 align="center">A passionate Data Science Enthusiast</h3>
+
 - 👀 I’m interested in Wed-dev, App-dev, data science, ML-OPs, cloud...
 - 🌱 I’m currently learning Machine learning, Google Cloud, Django APIs, React...
 - 💞️ I’m looking to collaborate on GCP, React, Dev-ops...
@@ -18,8 +20,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Reuben-Stephen-John&show_icons=true&theme=synthwave" alt="Reuben Stephen John" /></p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben-Stephen-John&layout=compact" alt="Reuben Stephen John" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben-Stephen-John&layout=compact&theme=synthwave" alt="Reuben Stephen John" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Reuben-Stephen-John&theme=synthwave" alt="Reuben Stephen John" /></p>
 <!---
 Reuben-Stephen-John/Reuben-Stephen-John is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
