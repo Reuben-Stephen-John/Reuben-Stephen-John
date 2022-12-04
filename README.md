@@ -1,5 +1,5 @@
 <p align = "center">
-<img src = "https://www.canva.com/design/DAFTzym3J9k/ZvSWIIrQERoGlIvNHKUyrg/view?utm_content=DAFTzym3J9k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" style="border-radius: 50%"/>
+<img src = "https://www.canva.com/design/DAFTzym3J9k/ZvSWIIrQERoGlIvNHKUyrg/view?utm_content=DAFTzym3J9k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" style="width:200px"/>
 </p>
 <h1 align="center">Hi 👋, I'm Reuben Stephen John</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
