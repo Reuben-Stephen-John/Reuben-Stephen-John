@@ -1,5 +1,5 @@
 <p align = "center">
-<img src = "https://t3.ftcdn.net/jpg/04/52/25/20/360_F_452252057_hvTV3q513CfJHR4iiZUOeRCuYLNmcNmD.jpg" width = "200" border-radius: 50%/>
+<img src = "https://t3.ftcdn.net/jpg/04/52/25/20/360_F_452252057_hvTV3q513CfJHR4iiZUOeRCuYLNmcNmD.jpg" style="width:100px border-radius: 50%"/>
 </p>
 <h1 align="center">Hi 👋, I'm Reuben Stephen John</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
