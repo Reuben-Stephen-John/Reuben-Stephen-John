@@ -1,6 +1,3 @@
-<p align = "center">
-<img src = "Logo/Reuben LOGO.jpg" style="width:200px ; border-radius: 50%;"/>
-</p>
 <h1 align="center">Hi 👋, I'm Reuben Stephen John</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
 
