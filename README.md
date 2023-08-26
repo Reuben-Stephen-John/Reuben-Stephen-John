@@ -23,7 +23,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reuben-Stephen-John&theme=swift" alt="Reuben Stephen John" />
     </div>
     <div style="margin: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben-Stephen-John&layout=compact&theme=swift" alt="Reuben Stephen John" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben-Stephen-John&hide_progress=false&theme=swift" alt="Reuben Stephen John" />
     </div>
 </div>
 
